@@ -1,18 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf3a428902678b14780cf4483ff0dc3b, type: 3}
-  m_Name: "\u51B0\u971C\u5F3A\u5316"
-  m_EditorClassIdentifier: 
-  effectDescription: 
-  buffType: 12
-  buffAmount: 10
-  buffDuration: 30
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d6a2ab44de643ebb51f3f51880bf92aa7ea9eb53016e2dc9c55e6675414fd5
+size 488

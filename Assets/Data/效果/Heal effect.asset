@@ -1,15 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 636962ccbd59ccb45bdd375a5db274f5, type: 3}
-  m_Name: Heal effect
-  m_EditorClassIdentifier: 
-  healPercent: 0.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:4db652acb945e48d86fc35f2e960368beab9807009390dc0ddf6ebe78af1d32c
+size 419
