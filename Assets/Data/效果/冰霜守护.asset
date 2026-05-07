@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf3a428902678b14780cf4483ff0dc3b, type: 3}
+  m_Name: "\u51B0\u971C\u5B88\u62A4"
+  m_EditorClassIdentifier: 
+  effectDescription: "\u51B0\u971C\u5B88\u62A4\n"
+  buffType: 8
+  buffAmount: 10
+  buffDuration: 20

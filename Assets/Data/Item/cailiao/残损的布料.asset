@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8fb003753327c347ab3e3ee2a5aa9dd, type: 3}
+  m_Name: "\u6B8B\u635F\u7684\u5E03\u6599"
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: "\u6B8B\u635F\u7684\u5E03\u6599"
+  itemIcon: {fileID: 1430714133, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemId: fe76b056759a0cf43ab9eed74716b74c
+  dropChance: 100
